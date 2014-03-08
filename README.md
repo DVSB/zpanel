@@ -17,7 +17,7 @@ Documentation https://github.com/zpanel/installers/tree/master/install/CentOS/6
 
 Install CentOS 6.4 64Bit
 
-bash <(curl -Ss https://raw.github.com/DVSB/installers/master/install/CentOS-6_4/10_1_1.sh)
+bash <(curl -Ss https://raw.github.com/DVSB/zpanel/master/install/CentOS-6_4/10_1_1.sh)
 
 Installation for Ubuntu 12.04 LTS is just as simple too...
 
