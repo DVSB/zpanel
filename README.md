@@ -17,15 +17,15 @@ Documentation https://github.com/zpanel/installers/tree/master/install/CentOS/6
 
 Install CentOS 6.4 64Bit
 
-````bash <(curl -Ss https://raw.github.com/DVSB/zpanel/master/install/CentOS-6_4/10_1_1.sh)创创
+bash <(curl -Ss https://raw.github.com/DVSB/zpanel/master/Zpanel-Installer/install/CentOS-6_4/10_1_1.sh)
 
 Installation for Ubuntu 12.04 LTS is just as simple too...
 
-````bash <(curl -Ss https://raw.github.com/zpanel/installers/master/install/Ubuntu-12_04/10_1_1.sh)创创
+麓麓bash <(curl -Ss https://raw.github.com/zpanel/installers/master/install/Ubuntu-12_04/10_1_1.sh)麓麓
 
 ...and to upgrade your server (for example from ZPanel 10.1.0 to 10.1.1):-
 
-````bash <(curl -Ss https://raw.github.com/zpanel/installers/master/upgrade/Ubuntu-12_04/10_1_1.sh)创创
+麓麓bash <(curl -Ss https://raw.github.com/zpanel/installers/master/upgrade/Ubuntu-12_04/10_1_1.sh)麓麓
 
 Officially supported Operating Systems
 
