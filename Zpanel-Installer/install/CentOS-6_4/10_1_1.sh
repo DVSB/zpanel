@@ -460,6 +460,10 @@ zppy repo add rustus.txt-clan.com
 zppy update
 zppy install repo_browser
 
+zppy repo add modules.zpanelcp.com/repo
+zppy update
+zppy install ZXTS
+
 # We now request that the user restarts their server...
 read -e -p "Restart your server now to complete the install (y/n)? " rsn
 	case $rsn in
